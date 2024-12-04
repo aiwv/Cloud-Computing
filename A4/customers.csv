@@ -1,0 +1,11 @@
+customer_id,age,gender,join_date,location
+1,35,Male,2020-01-15,New York
+2,42,Female,2019-08-22,California
+3,29,Male,2021-05-09,Texas
+4,50,Female,2018-10-30,Florida
+5,60,Male,2022-07-12,New York
+6,25,Female,2020-11-05,California
+7,38,Male,2019-03-19,Texas
+8,45,Female,2021-02-14,Florida
+9,33,Male,2017-06-01,New York
+10,27,Female,2022-03-23,California
